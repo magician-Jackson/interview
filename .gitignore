@@ -1,0 +1,12 @@
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.obj
+*.exe
+*.pdb
+*.idb
+*.cache
+*.log
+bin/
+obj/
